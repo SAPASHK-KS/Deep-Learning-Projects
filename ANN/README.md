@@ -136,18 +136,3 @@ The trained Artificial Neural Network predicts whether a patient is diabetic bas
 - Add advanced Deep Learning models
 
 ---
-
-## 📜 License
-
-This project is created for educational and learning purposes.
-
----
-
-## ⭐ Support
-
-If you found this project useful:
-- Star ⭐ the repository
-- Fork 🍴 the project
-- Share 📢 with others
-
----
