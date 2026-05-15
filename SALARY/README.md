@@ -128,18 +128,3 @@ The trained regression model predicts salary values based on the provided input 
 - Enhance visualization dashboards
 
 ---
-
-## 📜 License
-
-This project is created for educational and learning purposes.
-
----
-
-## ⭐ Support
-
-If you found this project useful:
-- Star ⭐ the repository
-- Fork 🍴 the project
-- Share 📢 with others
-
----
