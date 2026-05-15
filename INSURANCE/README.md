@@ -132,18 +132,3 @@ The trained model predicts whether a customer is eligible for insurance based on
 - Real-time prediction system
   
 ---
-
-## 📜 License
-
-This project is created for educational and learning purposes.
-
----
-
-## ⭐ Support
-
-If you found this project useful:
-- Star ⭐ the repository
-- Fork 🍴 the project
-- Share 📢 with others
-
----
