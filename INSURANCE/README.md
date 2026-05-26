@@ -1,16 +1,16 @@
-# 🛡️ Insurance Eligibility Prediction using Machine Learning
+# Insurance Eligibility Prediction using Machine Learning
 
 A Machine Learning project developed to predict insurance eligibility based on customer details and health-related attributes. This project demonstrates data preprocessing, model training, evaluation, and predictive analysis using Python and Scikit-learn.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to automate the insurance eligibility prediction process using Machine Learning algorithms. By analyzing various customer attributes, the model predicts whether a person is eligible for insurance approval.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
@@ -21,7 +21,7 @@ The goal of this project is to automate the insurance eligibility prediction pro
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 ```bash
 INSURANCE/
@@ -32,7 +32,7 @@ INSURANCE/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Programming Language
 - Python
@@ -51,7 +51,7 @@ INSURANCE/
 
 ---
 
-## 📊 Machine Learning Workflow
+## Machine Learning Workflow
 
 ### 1. Data Collection
 The dataset contains information such as:
@@ -85,7 +85,7 @@ Performance evaluated using:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Clone the Repository
 
@@ -117,13 +117,13 @@ using Jupyter Notebook or VS Code.
 
 ---
 
-## 📈 Output
+## Output
 
 The trained model predicts whether a customer is eligible for insurance based on the provided input details.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Web application integration
 - Cloud deployment
