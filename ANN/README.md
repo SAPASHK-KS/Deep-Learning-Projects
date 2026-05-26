@@ -1,16 +1,16 @@
-# 🧠 Diabetes Prediction using Artificial Neural Network (ANN)
+# Diabetes Prediction using Artificial Neural Network (ANN)
 
 A Deep Learning project developed using Artificial Neural Networks (ANN) to predict diabetes based on medical and health-related attributes. This project demonstrates data preprocessing, neural network model building, training, evaluation, and predictive analysis using Python and TensorFlow/Keras.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to build an Artificial Neural Network model capable of predicting whether a person is diabetic based on various medical parameters. The project focuses on implementing Deep Learning concepts and understanding ANN architectures for classification problems.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
@@ -21,7 +21,7 @@ The objective of this project is to build an Artificial Neural Network model cap
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 ```bash
 ANN/
@@ -33,7 +33,7 @@ ANN/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Programming Language
 - Python
@@ -54,7 +54,7 @@ ANN/
 
 ---
 
-## 📊 Deep Learning Workflow
+## Deep Learning Workflow
 
 ### 1. Data Collection
 The dataset contains medical information such as:
@@ -89,7 +89,7 @@ Performance evaluated using:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Clone the Repository
 
@@ -121,13 +121,14 @@ using Jupyter Notebook or VS Code.
 
 ---
 
-## 📈 Output
+## Output
 
 The trained Artificial Neural Network predicts whether a patient is diabetic based on the provided medical details.
 
+
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Improve ANN architecture
 - Hyperparameter tuning
