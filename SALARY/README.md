@@ -1,16 +1,16 @@
-# 💼 Salary Prediction using Machine Learning
+# Salary Prediction using Machine Learning
 
 A Machine Learning project developed to predict salary values based on experience and other related features. This project demonstrates data preprocessing, regression model training, evaluation, and predictive analysis using Python and Scikit-learn.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to build a Machine Learning model capable of predicting salaries using employee-related information such as years of experience and other relevant factors. The project focuses on implementing regression algorithms and understanding predictive analytics workflows.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
@@ -21,7 +21,7 @@ The objective of this project is to build a Machine Learning model capable of pr
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 ```bash
 SALARY/
@@ -32,7 +32,7 @@ SALARY/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Programming Language
 - Python
@@ -51,7 +51,7 @@ SALARY/
 
 ---
 
-## 📊 Machine Learning Workflow
+## Machine Learning Workflow
 
 ### 1. Data Collection
 The dataset contains employee-related information such as:
@@ -81,7 +81,7 @@ Performance evaluated using:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Clone the Repository
 
@@ -113,13 +113,13 @@ using Jupyter Notebook or VS Code.
 
 ---
 
-## 📈 Output
+## Output
 
 The trained regression model predicts salary values based on the provided input features.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add web application integration
 - Improve model accuracy
